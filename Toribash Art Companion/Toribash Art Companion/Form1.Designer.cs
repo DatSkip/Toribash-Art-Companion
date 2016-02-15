@@ -247,9 +247,9 @@
             this.groupBox4.Controls.Add(this.label5);
             this.groupBox4.Controls.Add(this.label4);
             this.groupBox4.Controls.Add(this.force_comboBox);
-            this.groupBox4.Location = new System.Drawing.Point(410, 23);
+            this.groupBox4.Location = new System.Drawing.Point(410, 12);
             this.groupBox4.Name = "groupBox4";
-            this.groupBox4.Size = new System.Drawing.Size(237, 239);
+            this.groupBox4.Size = new System.Drawing.Size(237, 250);
             this.groupBox4.TabIndex = 22;
             this.groupBox4.TabStop = false;
             this.groupBox4.Text = "Custom";
@@ -432,9 +432,9 @@
             // groupBox3
             // 
             this.groupBox3.Controls.Add(this.theme_pictureBox);
-            this.groupBox3.Location = new System.Drawing.Point(653, 23);
+            this.groupBox3.Location = new System.Drawing.Point(653, 12);
             this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Size = new System.Drawing.Size(155, 563);
+            this.groupBox3.Size = new System.Drawing.Size(155, 574);
             this.groupBox3.TabIndex = 21;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Theme";
